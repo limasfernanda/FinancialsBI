@@ -29,4 +29,6 @@ Criando um Relatório de Vendas Elegante com Power BI </b></u>
 
 ✔ Uma análise para aumentar a exploratória dos dados, relacionando as vendas e os descontos aplicados nos produtos.
 
+<br>
+
 🧱 [Arquivo do Power BI](https://github.com/limasfernanda/FinancialsBI/blob/main/desafio_financials.pbix)
