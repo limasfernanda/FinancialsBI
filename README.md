@@ -9,14 +9,14 @@ Criando um Relatório de Vendas Elegante com Power BI </b></u>
 
 [ Desafio de Projeto - (Intermediário)](https://web.dio.me/lab/criando-um-relatorio-de-vendas-elegante-com-power-bi/learning/be77b42c-6186-4e51-9746-1c5941116d08)
 
-## 📑Deve conter:
+### 📑Deve conter:
 
  - Estrutura definida;
  - Botões de navegação que fornecem navegabilidade;
  - Segmentadores utilizados e botões com imagem associado;
  - Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto.
 
- ## 📑Elementos necessários:
+ ### 📑Elementos necessários:
 
  - Objetos que definem o layout do relatório;
  - Apenas 5% dos CEPs fornecidos eram reconhecidos;
