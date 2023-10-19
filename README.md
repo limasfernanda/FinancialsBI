@@ -19,7 +19,7 @@ Criando um Relatório de Vendas Elegante com Power BI </b></u>
  ### 📑Elementos necessários:
 
  - Objetos que definem o layout do relatório;
- - Apenas 5% dos CEPs fornecidos eram reconhecidos;
+ - Gráficos (visuais) e os campos que os compõem;
  - Botões para navegabilidade entre páginas;
  - Segmentadores de dados.
 <hr>
