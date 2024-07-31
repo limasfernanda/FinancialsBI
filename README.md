@@ -31,4 +31,10 @@ Criando um Relatório de Vendas Elegante com Power BI </b></u>
 
 <br>
 
+## Resultado
+
 🧱 [Arquivo do Power BI](https://github.com/limasfernanda/FinancialsBI/blob/main/desafio_financials.pbix)
+
+📑 [Relatório do desafio](https://github.com/limasfernanda/FinancialsBI/blob/main/desafio_financials.pdf)
+
+A empresa possui pontos de venda em 5 países, os dois maiores segmentos são governamentais e pequenas empresas, o maior lucro de vendas é no quarto trimestre, e dentre os produtos de vestuário o que possui mais vendas é o de passeio.
